@@ -1,4 +1,4 @@
-# WordleSolver
+# Caleb WordleSolver
 
 1. Run `WordleSolver.py`. It'll provide a first guess.
 2. Input guess into Wordle site.
