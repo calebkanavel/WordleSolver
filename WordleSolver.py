@@ -5,7 +5,7 @@ ineligible_words = []
 current_guess = ''
 current_feedback = ''
 
-
+#Test
 def get_words():
     with open('FiveLetterWords.txt', 'r') as fd:
         reader = csv.reader(fd)
